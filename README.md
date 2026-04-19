@@ -41,7 +41,7 @@ BDA-Assignment
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Shivateja-31/Big-Data-Analytics.git>
 Open in Google Colab:
 Go to Google Colab
 Upload the .ipynb file
